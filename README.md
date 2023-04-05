@@ -15,9 +15,9 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+Hi there! My name is Joaquín and I'm a computer engineering student based in Argentina 🇦🇷. I have a passion for all things related to software development and coding, and I am particularly interested in the open-source community.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+As a Linux and FOSS enthusiast, I believe that free and open-source software is the future of technology. I enjoy contributing to open-source projects and learning from other developers in the community.
   
 
 <br/>  
@@ -29,7 +29,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://neovim.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.svg" alt="Go" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 </div>  
 
@@ -49,6 +49,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
+## Stats
+[![Joaquín's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquincorradi)](https://github.com/joaquincorradi/github-readme-stats)
   
 
 <br/>  
