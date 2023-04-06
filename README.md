@@ -17,7 +17,7 @@
 ### Glad to see you here!  
 Hi there! My name is Joaquín and I'm a computer engineering student based in Argentina 🇦🇷. I have a passion for all things related to software development and coding, and I am particularly interested in the open-source community.
 
-As a Linux and FOSS enthusiast, I believe that free and open-source software is the future of technology. I enjoy contributing to open-source projects and learning from other developers in the community.
+As a Linux and FOSS enthusiast, I hold the conviction that free and open-source software is the future of technology and I strongly believe in the power of collaboration and knowledge-sharing. I enjoy contributing to open-source projects and learning from other developers in the community.
   
 
 <br/>  
@@ -39,19 +39,15 @@ As a Linux and FOSS enthusiast, I believe that free and open-source software is 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaquincorradi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaquincorradi&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquincorradi&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquincorradi&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
-
-## Stats
-[![Joaquín's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquincorradi)](https://github.com/joaquincorradi/github-readme-stats)
-  
 
 <br/>  
 
