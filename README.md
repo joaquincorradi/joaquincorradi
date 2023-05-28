@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Joaquín and I'm a computer engineering student based in Argentina argentina. I have a passion for all things related to software development and coding, and I am particularly interested in the open-source community.<br><br>As a Linux and FOSS enthusiast, I hold the conviction that free and open-source software is the future of technology and I strongly believe in the power of collaboration and knowledge-sharing. I enjoy contributing to open-source projects and learning from other developers in the community.
+Hi there! My name is Joaquín and I'm a computer engineering student based in Argentina 🇦🇷. I have a passion for all things related to software development and coding, and I am particularly interested in the open-source community.<br><br>As a Linux and FOSS enthusiast, I hold the conviction that free and open-source software is the future of technology and I strongly believe in the power of collaboration and knowledge-sharing. I enjoy contributing to open-source projects and learning from other developers in the community.
 
 
 ## 🌐 Socials:
